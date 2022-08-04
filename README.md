@@ -1,0 +1,2 @@
+# scaling-potato
+idle game
